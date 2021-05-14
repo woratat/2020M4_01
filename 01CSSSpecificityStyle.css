@@ -1,0 +1,18 @@
+div p {
+	color: green;
+}
+p:nth-child(2){
+	color: red;
+}
+.x2 {
+color: teal;
+}
+p .x2 {
+	color: purple;
+}
+span {
+	color: blue;
+}
+h4 {
+	color: grey;
+}
